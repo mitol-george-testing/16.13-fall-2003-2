@@ -1,0 +1,34 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Engineering",
+      "Aerospace Engineering",
+      "Aerodynamics"
+    ],
+    [
+      "Engineering",
+      "Mechanical Engineering",
+      "Fluid Mechanics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "943e2a4c-3a7f-0e9f-f872-95c7a0cafac6",
+      "c9247206-6833-f6f7-e6d8-312d4e793fb0"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Aerodynamics of Viscous Fluids",
+  "course_description": "The major focus of 16.13 is on boundary layers, and boundary layer theory subject to various flow assumptions, such as compressibility, turbulence, dimensionality, and heat transfer. Parameters influencing aerodynamic flows and transition and influence of boundary layers on outer potential flow are presented, along with associated stall and drag mechanisms. Numerical solution techniques and exercises are included.\n",
+  "department_numbers": [
+    "16"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "16.13",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets with Solutions"
+  ],
+  "title": "Course Metadata"
+}
